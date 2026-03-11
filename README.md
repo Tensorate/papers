@@ -4,6 +4,8 @@
 
 **T(D.1, D.2) IS**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18963458.svg)](https://doi.org/10.5281/zenodo.18963458)
+
 ---
 
 ## Papers
@@ -36,6 +38,10 @@ Derives the observer effect as a theorem from three premises: entropic conservat
 ## Read Online
 
 [commons.observatory-research.org/papers/](https://commons.observatory-research.org/papers/)
+
+## Cite
+
+DOI: [10.5281/zenodo.18963458](https://doi.org/10.5281/zenodo.18963458)
 
 ---
 
